@@ -4,5 +4,5 @@
 
 ___________________
 
-Ссылка на [GitHub Pages]
-(https://qann1st.github.io/how-to-learn/)
+<a href="https://qann1st.github.io/how-to-learn/">Ссылка на GitHub Pages</a>
+
