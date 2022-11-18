@@ -15,4 +15,5 @@
 * БЭМ
 * Git 
 * HTML/CSS
+* Flex
 
