@@ -4,7 +4,7 @@
 
 "Научиться учиться" - сайт, о том как надо правильно учиться.
 
-![image](https://user-images.githubusercontent.com/107764041/202918732-5a81391c-8133-42ef-ad5b-e5581cba8706.png)
+![image](https://user-images.githubusercontent.com/107764041/202918968-3f796507-464e-4dbb-bd42-83f0f47e5ee3.png)
 
 [Ссылка на GitHub Pages](https://qann1st.github.io/how-to-learn/)
 
@@ -14,5 +14,4 @@
 * Git 
 * HTML/CSS
 * Flex
-* Grid
 
